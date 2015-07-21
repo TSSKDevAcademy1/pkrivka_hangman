@@ -1,0 +1,1 @@
+Prvá verzia tejto hry vytvorená v JavaScripte.
